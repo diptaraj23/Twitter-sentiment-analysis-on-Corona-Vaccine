@@ -1,2 +1,8 @@
-# Twitter-sentiment-analysis-on-Corona-Vaccine
-Tweets from Twitter are collected using Tweepy and then the tweets are processed , words are being counted and then sentiments are being analysed from each tweets.
+# Tweepy-API
+
+## How to use
+- Step 1: Sign up here https://developer.twitter.com/
+- Step 2: Generate Consumer API keys, Access token & access token secret (check cred.py)
+- Step 3: Update creds.py
+
+Now run main.ipynb and select suitable options to stream and analyze sentiment of the tweets.
